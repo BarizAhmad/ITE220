@@ -1,1 +1,1 @@
-document.write("Helo Week2!");
+document.write("Hello Week2!");
