@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=Hind);
+body { 
+  background-color: white;
+  margin: 0;
+  text-align: center;
+ }
+h1 {
+  text-align: center;
+  font-family: 'Hind', sans-serif;
+ }
+form {
+ font-family: 'Hind', sans-serif;
+  max-width: 1000px;
+  text-align: center;
+  margin: 0 auto 0 auto;}
+
+.one-third, .two-thirds {
+  background-color: grey ;
+  border: 12px solid #fff;
+  float: center;
+  padding: 10px;
+  margin: 10px;
+  color: #fff;
+  overflow: hidden;}
+
